@@ -652,8 +652,14 @@ video {
 @media (max-width:640px) {
     
     .images{
-       max-width: 380px;
+       max-width: 360px;
        max-height: 200px;
+    }
+    #div_top_hypers {
+        background-color:#eeeeee;      
+    }
+    #ul_top_hypers li{
+        padding: 25px;
     }
 }
 @media (max-width:1079px) {
